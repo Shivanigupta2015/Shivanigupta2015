@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and Java full stack developer from India.</h3>
 
 <p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/shivanigupta2015/shivanigupta2015/main/profile-image.png" alt="Shivani's Photo" width="200" />
+  <img align="right" src="https://github.com/Shivanigupta2015/Shivanigupta2015/blob/main/sg.jpg" />
 </p>
 
 ---
