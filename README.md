@@ -15,8 +15,9 @@ With a blend of communication skills and growing technical knowledge, I focus on
 ---
 
 ### 🌱 Currently Learning:
-- React, Java, Python
-- Full Stack Development (Frontend + Backend)
+- Full Stack Development
+  
+  > **React, Java, Python**
 
 ### 👨‍💻 Projects:
 - Check out: [My Profile](https://shivanigupta2015.github.io/codespace_1/)
