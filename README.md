@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">Java Full Stack Developer from India <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">.</h3>
+<h3 align="center">Full Stack Developer from India <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">.</h3>
 
 
 ### 📄 About Me
 
-I'm Shivani — a passionate, self-driven **Frontend Developer** currently transitioning from a successful background in U.S. recruitment to full-time development.
+Hi, I'm Shivani — a **Frontend Developer** with a background in U.S. recruitment, now channeling my passion into building intuitive and responsive web experiences.
 
-With a blend of communication skills and growing technical knowledge, I focus on crafting **responsive**, **user-friendly** web interfaces.
+My journey from talent acquisition to tech has equipped me with strong communication skills and a sharp eye for user-centric design. I’m committed to creating clean, accessible interfaces that not only look great but work flawlessly across devices.
+
 
 <p align="center">
   <img align="right" src="SG-Giblin_img.png" width="200"/>
