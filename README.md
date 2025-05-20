@@ -21,7 +21,7 @@ My journey from talent acquisition to tech has equipped me with strong communica
   > **React, Java, Python**
 
 ### 👨‍💻 Projects:
-- Check out: [My Profile](https://shivanigupta2015.github.io/codespace_1/)
+- Check out: [My Profile](https://codespace-1.vercel.app/)
 
 ### 📫 Contact Me:
 - Email: **guptashivani7409@gmail.com**
